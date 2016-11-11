@@ -1,0 +1,3 @@
+# The ones with a # in front of them are low resolution ones or they have very bad signal to noise ratios
+############ The following are taken from speclist_extra.dat ##################
+050730_uves.fits  3.96723      UVES	 uvres	      0.0	   99.	### CIV 1548,1550 ; CII 1334, 1335 fit the description of lines and their relative strengths

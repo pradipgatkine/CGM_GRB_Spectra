@@ -1,0 +1,8 @@
+# The ones with a # in front of them are low resolution ones or they have very bad signal to noise ratios
+############ The following are taken from speclist_extra.dat ##################
+050730_uves.fits  3.9693      UVES	 uvres	      0.0	   99.	###
+050820A_HIRES.fits	2.6145	HIRES	hiresres
+050820A_uves.fits  2.6145      UVES	 uvres	      0.0	   99.	### Fynbo says z = 2.6147
+050922C_uves.fits	2.1995	UVES	uvres
+060607A_uves.fits	3.0749	UVES	uvres
+071031_uves.fits	2.6918	UVES	uvres

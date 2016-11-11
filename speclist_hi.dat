@@ -1,0 +1,23 @@
+# this file is used by the searching automatic machine and to calculate
+# the Delta-z and g(z) for the MgII search
+#file      redshift      Instrument      Grating      Lower_z      Upper_z
+100814A.fits	 1.44	   MagE		 mageres		      0.0	   99.
+090426.fits	 0.544	   LRIS		 R400		      0.0	   99.
+080810.fits      3.35      HIRES	 hiresres	      0.0	   99. 
+080607.fits	 3.036	    LRIS	 R400	      0.0	   99
+080319B_uves.fits      0.937      UVES      uvres      0.      99.
+#071025b.fits	 5.2	   LRIS		 R400		      0.0	   99.
+071025r.fits	 5.2	   LRIS		 R400		      0.0	   99.
+071003.fits	 1.604	   LRIS		 R400		      0.0	   99.
+070810A.fits	 2.17	   LRIS		 R400		      0.0	   99.
+061121b.fits	 1.314	   LRIS		 R400		      0.0	   99.
+061121r.fits	 1.314	   LRIS		 R400		      0.0	   99.
+060522.fits	 5.11	   LRIS		 R400		      0.0	   99.
+060124.fits	 2.296	    ESI		 ESIres	      0.0	   99. 
+051111.fits      1.55      HIRES	 hiresres	      0.0	   99. 
+050801b.fits	 1.56	   LRIS		 R400		      0.0	   99.
+050801r.fits	 1.56	   LRIS		 R400		      0.0	   99.
+021004_uves.fits  2.323	    UVES	 uvres	      0.0	   99.
+020813.fits      1.255      UVES	 uvres	      0.0	   99. 
+010222.fits	 1.477	    ESI		 ESIres	      0.0	   99. 
+000926.fits	 2.038	    ESI		 ESIres	      0.0	   99. 

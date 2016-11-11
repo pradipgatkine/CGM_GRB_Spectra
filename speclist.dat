@@ -1,0 +1,117 @@
+# this file is used by the searching automatic machine and to calculate
+# the Delta-z and g(z) for the MgII search
+#file      redshift      Instrument      Grating      Lower_z      Upper_z
+011211.fits	   2.142	 FORS		 V300	      0.0	   2.2
+#021004_uves.fits  2.323	    UVES	 uvres	      0.0	   99.
+030226.fits      1.986      FORS      V300      0.0      99.
+030323.fits      3.372      FORS      V1200      0.0      1.5
+030429.fits      2.656      FORS      V300      0.0      1.7
+050319.fits      3.24      ALFOSC      gr4      0.0      1.8
+050401.fits      2.90      FORS      V300      0.0      1.8
+#050408.fits      1.236      GMOS      R831      0.0      99.   #out of range
+#050730_uves.fits  3.9687      UVES	 uvres	      0.0	   99.
+050802.fits      1.71      ALFOSC      gr4      0.0      1.8
+#050820_uves.fits  2.614      UVES	 uvres	      0.0	   99.
+#050824.fits      0.8278      FORS      V300      0.0      1.8  #host
+050908.fits      3.339      GMOS      R400      0.0      1.75
+#050922C_fors.fits 2.1996      FORS      V300      0.0      1.8 
+#050922C.fits	 2.1996	    UVES      uvres	0.0	 99.		 
+060115.fits      3.53      FORS      V300      0.0      1.8
+060206.fits      4.05      ALFOSC      gr4      0.5      1.9
+060210.fits      3.912      GMOS      R400      0.0      99.
+#060418.fits      1.489      GMOS      R400      0.0      1.8
+#060418_uves.fits      1.489      UVES      uvres      0.0      1.8
+060502.fits      1.515      GMOS      R400      0.0      99.
+060510B.fits      4.9      GMOS      R400      0.0      2.22
+060512.fits	  2.1	   FORS	     V300      0.0	99.
+060526.fits      3.221      FORS      V300      0.0      1.8
+060707.fits      3.425      FORS      V300      0.0      1.8
+#060607A_uves.fits  3.047      UVES	 uvres	      0.0	   99.
+060708A.fits      1.92      FORS      V300      0.0      99.
+060714.fits      2.71      FORS      V300      0.0      99.
+060729.fits      0.54      GMOS      B600      0.25      99.
+060904B.fits	 0.703	   FORS	     V300      0.0	 99.
+060906.fits      3.685      FORS      V300      0.0      1.8
+060908.fits      2.43      GMOS      R400      0.0      1.32
+060926.fits      3.20      FORS      V300      0.0      99.
+060927.fits      5.47      FORS      V300      0.0      99.
+061007.fits      1.261      FORS      V300      0.0      1.8
+061110A.fits      0.7578      FORS      V300      0.0      1.5
+061110B.fits      3.437      FORS      V300      0.0      2.0
+070110.fits      2.352      FORS      V300      0.0      2.1
+#070125.fits      1.547      GMOS      R400      0.0      2.0
+#070125fors.fits      1.547      FORS      V300      0.0      2.0
+070306.fits      1.4965      FORS      V300      0.0      99.
+#070318.fits      0.836      GMOS      R400      0.0      2.   #not covered
+070411.fits      2.954      FORS      V1200      0.0      99.
+070506.fits      2.31      FORS      V300      0.0      1.7
+070529.fits      2.498      GMOS      B600      0.0      99.
+070611.fits      2.039      FORS      V300      0.0      2.2
+070721B.fits	 3.626	    FORS      V300	0.0	 99.
+070802.fits      2.45      FORS      V300      0.0      99. 
+071010B.fits      0.947      GMOS      R400      0.0      99.
+071020.fits      2.145      FORS      V300      0.0       1.8
+071031.fits	 2.692	    FORS      V300	0.0	  99.
+071112C.fits      0.823      GMOS      R400      0.0      99.
+071117.fits      1.331      FORS      V300      0.0      1.5
+071122.fits      1.14      GMOS      R400      0.0      2.29
+080210.fits      2.6419      FORS      V300      0.0      2.18
+#080310_uves.fits  2.4272      UVES	 uvres	      0.0	   99.
+080319B.fits      0.937      GMOS      R400      0.78      99.
+#080319B_uves.fits      0.937      UVES      uvres      0.      99.
+080319C.fits      1.95      GMOS      B600      0.0      99.
+080330.fits      1.51      ALFOSC      gr4      0.0      1.8
+080411.fits      1.03      FORS      V300      0.0      99.
+080413A.fits      2.433      GMOS      R400      0.68	1.5      
+080413B.fits      1.10      GMOS      B600      0.0      99.
+080520.fits      1.545      FORS      V300      0.7      99.
+080603A.fits      1.688      GMOS      R400      0.0      99.
+080603B.fits      2.69      ALFOSC      gr4      0.0      1.8
+080604.fits      1.416      GMOS      R400      0.0      99.
+080605.fits      1.6398      FORS      V300      0.0      99.
+080707.fits      1.23      FORS      V300      0.0      1.6
+080710.fits      0.845      GMOS      B600      0.0      99.
+080721.fits	 2.608	    DOLORES   Dolres	0.0	 99.
+#080804.fits      2.205      GMOS      R400      0.0      1.8
+080805.fits      1.505      FORS      V300      0.0      1.8
+#080905B.fits      2.374      FORS      V300      0.0      99.
+080913A.fits	   6.7	      FORS	V300	  0.0	   99.
+080916A.fits	   0.689      FORS	V300	  0.0	   99.
+080928.fits      1.69       FORS      V300      0.0      99.
+#081007.fits      0.529      GMOS      R400      0.0      99.  # not covered
+#081008.fits      1.967      GMOS      B600      0.0      99.
+#081008_uves.fits      1.967      UVES      uvres      0.0      99.
+#081029.fits      3.847      GMOS      R400      0.0      1.6
+#081029_uves.fits      3.847      UVES      uvres      0.0      99.
+081222.fits      2.77      GMOS      R400      0.0      1.5
+090313A.fits      3.375      GMOS      R400      0.0      1.72
+090323.fits      3.57      GMOS      R400      0.0      99
+#090424.fits      0.544      GMOS      R400      0.0      99.   # out of range
+090516A.fits	  4.109	     FORS      V300	 0.0	  99.
+090519A.fits	  3.85	     FORS      V300	 0.0	  99.
+090529A.fits	  2.625	     FORS      V300	 0.0	  99.
+090812A.fits	  2.454	     FORS      V300	 0.0	  99.  
+090902B.fits      1.822      GMOS      R400      0.7      99
+#090926A.fits	  2.1062     XShoot    Xshres	 0.0	  99.	
+091020A.fits	  1.71	     ALFOSC    gr4	 0.0	  99.
+#091024.fits      1.092      GMOS      R400      0.0      99   #out of range
+091029.fits      2.752      GMOS      R400      0.0      99
+091109A.fits	 3.076	    FORS      V300	0.0	 99.
+091208B.fits      1.063      GMOS      R400      0.7      99
+100219A.fits	  4.66	     GMOS      R600	 0.0	  99
+#100302A.fits      4.813      GMOS      R400      0.0      99  #out of range
+100414A.fits      1.368      GMOS      R400      0.7      99
+100418A.fits	  0.6235    Xshoot    Xshres	0.0	 99
+100513A.fits      4.772      GMOS      R400      0.0      2.9
+100901A.fits      1.408      GMOS      B600      0.4      99
+100906A.fits      1.727      GMOS      B600      0.0      99
+110213A.fits	  1.46	     FAST      fastres	 0.0	  99.
+110213B.fits      1.083      GMOS      B600      0.0      99
+110726A.fits      1.036      GMOS      R400      0.7      99
+110731A.fits      2.83      GMOS      B600      0.0      99
+110918A.fits      0.982      GMOS      R400      0.0      99
+110205A.fits	  2.22	     KAST      kasres	 0.0	  99.
+110213A.fits	  1.46	     FAST      fastres	 0.0	  99.
+#111108A.fits	  4.989	     GMOS      R400	 0.0	  99.  #out of range
+111107A.fits      2.893      GMOS      R400      0.0      99.
+111229A.fits	  1.385	     GMOS      R400	 0.0	  99.

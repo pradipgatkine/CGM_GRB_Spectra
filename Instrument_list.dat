@@ -1,0 +1,20 @@
+#Instrument	Grating	Approx_Resolution	Window_size
+FORS	V300	800	1500					# From Cucchiara May,2015
+FORS	V1200	800	1500			#cross-checked GRB 070411 in Cucchiara May,2015 
+UVES	uvres	40000	400		#for 1 arcsec slit, some objects have 55000 Resolution
+ALFOSC	gr4	355	2000			#720 for 0.5 arcsec slit and 360 for 1 arcsec slit
+GMOS	R831	4396	1000
+GMOS	R400	1918	1000
+GMOS	R600	3744	1000
+GMOS	B600	1688	1000
+DOLORES	Dolres	600	1500			#Taken from GCN of GRB 080721
+Xshoot	Xshres	8000	600
+FAST	fastres	2400	1000		# From Nino's Paper
+KAST	kasres	1200	1500	
+MagE	mageres	20000	400
+LRIS	R400	1200	1500 		#For most of them it is 1200, for GRB 080607 it is 2000
+HIRES	hiresres	50000	400	# Some objects have 55000 and some have 30000 
+ESI	ESIres	20000	400
+(Not	Known)	1500	1000
+Resolution	6000	6000	700
+Resolution	9000	9000	600

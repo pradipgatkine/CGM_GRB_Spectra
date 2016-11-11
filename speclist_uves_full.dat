@@ -1,0 +1,18 @@
+050730_uves.fits  3.96723      UVES	 uvres	      0.0	   99.	### CIV 1548,1550 ; CII 1334, 1335 fit the description of lines and their relative strengths
+050820A_uves.fits  2.6145      UVES	 uvres	      0.0	   99.	### Fynbo says z = 2.6147
+050922C_uves.fits	2.1995	UVES	uvres
+060607A_uves.fits	3.0749	UVES	uvres
+071031_uves.fits	2.6918	UVES	uvres
+080310_uves.fits  2.4272      UVES	 uvres	      0.0	   99.	###
+080310_uves_old.fits  2.4272      UVES	 uvres	      0.0	   99.	###	 #Good redshift
+080804_uves.fits      2.20542	UVES	uvres
+080804_uves4B.fits      2.20542	UVES	uvres
+080804_uves4Blue.fits      2.20542	UVES	uvres
+080804_uves5R.fits      2.20542	UVES	uvres
+081008A_uvesB.fits	1.967	UVES	uvres      	###
+081008A_uvesR.fits	1.967	UVES	uvres	###
+############ The following are taken from speclist_hi.dat ##################
+080319B_uves.fits      0.9382      UVES      uvres      0.      99.	#z from Fynbo 2009
+021004_uves.fits  2.323	    UVES	 uvres	      0.0	   99.
+020813.fits      1.255      UVES	 uvres	      0.0	   99. 
+############### The following are taken from speclist.dat ###############

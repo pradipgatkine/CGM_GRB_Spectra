@@ -1,0 +1,75 @@
+# The ones with a # in front of them are low resolution ones or they have very bad signal to noise ratios
+############ The following are taken from speclist_extra.dat ##################
+050730_uves.fits  3.9687      UVES	 uvres	      0.0	   99.	###
+050820A_HIRES.fits	2.6145	(Not	Known)
+050820A_uves.fits  2.6145      UVES	 uvres	      0.0	   99.	###
+050908_deimos.fits	3.344	(Not	Known)
+050922C_uves.fits	2.1996	(Not	Known)
+060124_ESI.fits	2.3	(Not	Known)
+060418.fits	1.49	(Not	Known)
+060607A_uves.fits	3.0749	(Not	Known)
+071025b.fits	 5.2	   LRIS		 R400		      0.0	   99.	###
+071031_uves.fits	2.692	(Not	Known)
+080210_FORS2_1400V.fits      2.6419	(Not	Known)
+080310_uves.fits  2.4272      UVES	 uvres	      0.0	   99.	###
+080310_uves_old.fits  2.4272      UVES	 uvres	      0.0	   99.	###
+080607A_LRIS1200.fits	3.0368	(Not	Known)
+080607A_LRISB600.fits	3.0368	(Not	Known)
+080607A_LRISR400.fits	3.0368	(Not	Known)
+080804_uves.fits      2.205	(Not	Known)
+080804_uves4B.fits      2.205	(Not	Known)
+080804_uves4Blue.fits      2.205	(Not	Known)
+080804_uves5R.fits      2.205	(Not	Known)
+080810_HIRES.fits	3.35	(Not	Known)
+081008A_uvesB.fits	1.967	(Not	Known)      	###
+081008A_uvesR.fits	1.967	(Not	Known)	###
+090809A_UVB.fits	2.737	(Not	Known)
+090809A_VIS.fits	2.737	(Not	Known)
+090926A_uvb1.fits	  2.1062     Xshoot    Xshres	 0.0	  99.		###
+090926A_vis1.fits	  2.1062     Xshoot    Xshres	 0.0	  99.		###
+091127.fits	0.490	(Not	Known)
+100219A_Ph3_VIS.fits	4.66	(Not	Known)
+100219A_VIS_IRAF.fits	4.66	(Not	Known)
+100219A_vis1.fits	4.66	(Not	Known)
+#100418A_Xsh_uvb.fits	0.6235	(Not	Known)
+100425A_UVB.fits	1.755	(Not	Known)
+111008A_nir1.fits	  4.989	(Not	Known)
+111008A_vis1.fits	  4.989	(Not	Known)
+111107A_UVB.fits      2.893      GMOS      R400      0.0      99.
+120327A_uvb1.fits	2.813	(Not	Known)
+120327A_vis1.fits	2.813	(Not	Known)
+120716A_GBvis1.fits	2.48	(Not	Known)
+120815A_uvb1.fits	2.358	(Not	Known)
+120815A_vis1.fits	2.358	(Not	Known)
+120909A_vis1.fits	3.93	(Not	Known)	#Very long GRB.	
+120909A_vis2_beck.fits	3.93	(Not	Known)
+121024A_uvb1.fits	2.298	(Not	Known)
+121024A_vis1.fits	2.298	(Not	Known)
+121201A_GBviscomb.fits	3.385	(Not	Known)
+130408A_nir1.fits	3.758	(Not	Known)
+130408A_uvb1.fits	3.758	(Not	Known)	#Luminous moderately high-z GRB with bright afterglow
+130408A_vis1.fits	3.758	(Not	Known)
+131231A.fits	0.6439	(Not	Known)
+140226A_LRIS.fits	1.98	(Not	Known)
+############ The following are taken from speclist_hi.dat ##################
+100814A.fits	 1.44	   MagE		 mageres		      0.0	   99.
+090426.fits	 0.544	   LRIS		 R400		      0.0	   99.
+080810.fits      3.35      HIRES	 hiresres	      0.0	   99. 
+080607.fits	 3.036	    LRIS	 R400	      0.0	   99
+080319B_uves.fits      0.937      UVES      uvres      0.      99.
+071025b.fits	 5.2	   LRIS		 R400		      0.0	   99.
+071025r.fits	 5.2	   LRIS		 R400		      0.0	   99.
+071003.fits	 1.604	   LRIS		 R400		      0.0	   99.
+070810A.fits	 2.17	   LRIS		 R400		      0.0	   99.
+061121b.fits	 1.314	   LRIS		 R400		      0.0	   99.
+061121r.fits	 1.314	   LRIS		 R400		      0.0	   99.
+060522.fits	 5.11	   LRIS		 R400		      0.0	   99.
+#060124.fits	 2.296	    ESI		 ESIres	      0.0	   99. 
+051111.fits      1.55      HIRES	 hiresres	      0.0	   99. 
+050801b.fits	 1.56	   LRIS		 R400		      0.0	   99.
+050801r.fits	 1.56	   LRIS		 R400		      0.0	   99.
+021004_uves.fits  2.323	    UVES	 uvres	      0.0	   99.
+020813.fits      1.255      UVES	 uvres	      0.0	   99. 
+010222.fits	 1.477	    ESI		 ESIres	      0.0	   99. 
+000926.fits	 2.038	    ESI		 ESIres	      0.0	   99. 
+############### The following are taken from speclist.dat ###############

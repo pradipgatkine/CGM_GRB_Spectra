@@ -1,0 +1,115 @@
+011211.fits	2.1427	(Not	Known)
+020813A.fits	1.2545	(Not	Known)	
+020813_uvreb.fits	1.2545	(Not	Known)	
+021004_uvreb.fits	2.3289	(Not	Known)
+050408.fits      1.236      GMOS      R831      0.0      99.   #out of range ###
+050709.fits	0.16	(Not	Known)	
+050730_uves.fits  3.9687      UVES	 uvres	      0.0	   99.	###
+050730_uvreb.fits	3.96723	(Not	Known)	###
+050820A_HIRES.fits	2.6145	(Not	Known)
+050820A_uves.fits  2.6145      UVES	 uvres	      0.0	   99.	###
+050824.fits      0.8278      FORS      V300      0.0      1.8  #host	###
+050908_deimos.fits	3.344	(Not	Known)
+050922C_FORS.fits 2.1996      FORS      V300      0.0      1.8 	###
+050922C_uves.fits	2.1996	(Not	Known)
+051221A.fits	0.5465	(Not	Known)	#Not sure if this is A or B, but in GRBox, there is only redshift for A so I guess this is A
+060123.fits	0.56	(Not	Known)		
+060124_ESI.fits	2.3	(Not	Known)
+060124_LRIS.fits	2.3	(Not	Known)
+060206_KAST.fits	4.048	(Not	Known)
+060418.fits	1.49	(Not	Known)
+060418_uves.fits	1.49	(Not	Known)	
+060502A.fits	1.5026	(Not	Known)		
+060526_sp1.fits	3.221	(Not	Known)
+060604.fits	2.1357	(Not	Known)		
+060607A_uves.fits	3.0749	(Not	Known)
+60708A.fits	1.92	(Not	Known)	 #Did you mean 060708A	###
+060912A.fits	0.937	(Not	Known)
+070125.fits      1.547      GMOS      R400      0.0      2.0	###
+070125fors.fits      1.547      FORS      V300      0.0      2.0	###
+070208.fits	1.165	(Not	Known)	
+070318.fits      0.836      GMOS      R400      0.0      2.   #not covered, Burst with	 peculiar, long-lived optical afterglow.	###
+070612A.fits	0.617	(Not	Known)	
+070724A.fits	0.457	(Not	Known)	
+071025b.fits	5.2	(Not	Known)	
+071025r.fits	5.2	(Not	Known)
+071025b.fits	 5.2	   LRIS		 R400		      0.0	   99.	###
+071031_FORS.fits	2.692	(Not	Known)
+071031_uves.fits	2.692	(Not	Known)
+080210_FORS_sp1.fits      2.6419	(Not	Known)
+080210_FORS2_1400V.fits      2.6419	(Not	Known)
+080310_uves.fits  2.4272      UVES	 uvres	      0.0	   99.	###
+080310_uves_old.fits  2.4272      UVES	 uvres	      0.0	   99.	###
+080413A_Gemini.fits	2.433	(Not	Known)
+080607A_LRIS1200.fits	3.0368	(Not	Known)
+080607A_LRISB600.fits	3.0368	(Not	Known)
+080607A_LRISR400.fits	3.0368	(Not	Known)
+080804_gemini.fits      2.205      GMOS      R400      0.0      1.8	###
+080804_uves.fits      2.205	(Not	Known)
+080804_uves4B.fits      2.205	(Not	Known)
+080804_uves4Blue.fits      2.205	(Not	Known)
+080804_uves5R.fits      2.205	(Not	Known)
+080805.fits	1.5042	(Not	Known)
+080810_HIRES.fits	3.35	(Not	Known)
+080810_NOT.fits	3.35	(Not	Known)
+080905B.fits      2.374      FORS      V300      0.0      99.	###
+081007.fits      0.529      GMOS      R400      0.0      99.  # not covered	###
+081008.fits      1.967      GMOS      B600      0.0      99.	###
+081008_gemini.fits      1.967      GMOS      B600      0.0      99.	###
+081008A_uvesB.fits	1.967	(Not	Known)      	###
+081008A_uvesR.fits	1.967	(Not	Known)	###
+081029.fits      3.847      GMOS      R400      0.0      1.6	###
+090424.fits      0.544      GMOS      R400      0.0      99.   # out of range	###
+090424A.fits	0.544	(Not	Known)
+090426A.fits	2.609	(Not	Known)
+090809A_UVB.fits	2.737	(Not	Known)
+090809A_VIS.fits	2.737	(Not	Known)
+090926A.fits	  2.1062     Xshoot    Xshres	 0.0	  99.		###
+090926A_uvb1.fits	  2.1062     Xshoot    Xshres	 0.0	  99.		###
+090926A_vis1.fits	  2.1062     Xshoot    Xshres	 0.0	  99.		###
+091024.fits      1.092      GMOS      R400      0.0      99   #out of range	###
+091109AA.fits	3.076	(Not	Known)
+091127.fits	0.490	(Not	Known)
+100219A_Ph3_VIS.fits	4.66	(Not	Known)
+100219A_VIS_IRAF.fits	4.66	(Not	Known)
+100219A_vis1.fits	4.66	(Not	Known)
+100302A.fits      4.813      GMOS      R400      0.0      99  #out of range		###
+100418A_Xsh_uvb.fits	0.6235	(Not	Known)
+100425A_UVB.fits	1.755	(Not	Known)
+111008A.fits	  4.989	     GMOS      R400	 0.0	  99.  #out of range	###
+111008A_nir1.fits	  4.989	(Not	Known)
+111008A_vis1.fits	  4.989	(Not	Known)
+111107A_GBuvcomb.fits      2.893      GMOS      R400      0.0      99.
+111107A_GBviscomb.fits      2.893      GMOS      R400      0.0      99.
+111107A_UVB.fits      2.893      GMOS      R400      0.0      99.
+111107A_uvb1.fits      2.893      GMOS      R400      0.0      99.
+111107A_VIS.fits      2.893      GMOS      R400      0.0      99.
+111107A_vis1.fits      2.893      GMOS      R400      0.0      99.
+120327A_uvb1.fits	2.813	(Not	Known)
+120327A_vis1.fits	2.813	(Not	Known)
+120404A.fits	2.876	(Not	Known)
+120716A_GBuvb1.fits	2.48	(Not	Known)
+120716A_GBvis1.fits	2.48	(Not	Known)
+120815A_uvb1.fits	2.358	(Not	Known)
+120815A_vis1.fits	2.358	(Not	Known)
+120909A_vis1.fits	3.93	(Not	Known)	#Very long GRB.	
+120909A_vis2_beck.fits	3.93	(Not	Known)
+121024A_uvb1.fits	2.298	(Not	Known)
+121024A_vis1.fits	2.298	(Not	Known)
+121128A.fits	2.20	(Not	Known)
+121201A_GBviscomb.fits	3.385	(Not	Known)
+130408A.fits	3.758	(Not	Known)
+130408A_nir1.fits	3.758	(Not	Known)
+130408A_uvb1.fits	3.758	(Not	Known)	#Luminous moderately high-z GRB with bright afterglow
+130408A_vis1.fits	3.758	(Not	Known)
+130505A.fits	2.27	(Not	Known)
+130612A_GBuvb1.fits	2.006	(Not	Known)
+130612A_GBvis1.fits	2.006	(Not	Known)
+131231A.fits	0.6439	(Not	Known)
+140226A_LRIS.fits	1.98	(Not	Known)
+140311A.fits	4.954	(Not	Known)
+140311A_GemS.fits	4.954	(Not	Known)
+140423A.fits	3.26	(Not	Known)	#Bright optical afterglow, extensively observed
+140518A.fits	4.707	(Not	Known)
+141028A_gemini.fits	2.332	(Not	Known)
+141121A.fits	1.47	(Not	Known)	#Very long. Long-lived and slow-decaying optical/X-ray afterglow.	
